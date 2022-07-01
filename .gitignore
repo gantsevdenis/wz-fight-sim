@@ -1,0 +1,14 @@
+**_j.ml
+**_j.mli
+**_t.ml
+**_t.mli
+_build/
+fight_sim/bin/comments.txt
+fight_sim/bin/all_*
+fight_sim/lib/*atd
+fight_sim/lib/*_autogen*
+_trash*
+fight_sim/bin/todo.txt
+fight_sim/bin/trash.ml
+*.csv
+*.ini

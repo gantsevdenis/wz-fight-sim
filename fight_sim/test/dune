@@ -1,0 +1,3 @@
+(tests
+ (names test_main bench_main)
+ (libraries fight_sim alcotest core_unix))

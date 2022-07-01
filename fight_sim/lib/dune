@@ -1,0 +1,5 @@
+(library
+ (name fight_sim)
+ (libraries yojson core dolog str core_unix))
+  
+(data_only_dirs data*)
